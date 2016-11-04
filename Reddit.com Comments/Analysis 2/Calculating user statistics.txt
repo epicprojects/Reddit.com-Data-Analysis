@@ -1,0 +1,8 @@
+Calculating user statistics
+Write a mapper and reducer that returns - for each user - the number of comments, the average number of upvotes per comment, and the average length of each comment.
+
+Who is most prolific, that is, who has the most comments.
+
+Who is the best liked, the highest average upvotes?
+
+Who is the most verbose, the longest average comment length?

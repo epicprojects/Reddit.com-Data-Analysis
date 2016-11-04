@@ -1,0 +1,4 @@
+Deflategate conversation over time
+Way back in 2015, the New England Patriots allegedly deflated footballs used in the AFC championship game. Multiple suspensions, a federal judge got involved, dogs and cats living together. I'm curious how much people were talking about it over the month.
+
+Determined the counts of the number of mentions of "Deflategate" or "Tom Brady" for each day of May 2015 in the NFL subreddit (nfl in the dataset). Also, made sure to count both capitalized and non-capitalized versions.

@@ -1,0 +1,3 @@
+Subreddit Love Index
+
+Write a mapper and reducer that counts the words "love" and "hate" in comments and calculate what I'm calling the "love index" for each subreddit. The love index is the difference in love and hate counts, divided by the sum.
